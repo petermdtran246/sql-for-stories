@@ -26,8 +26,5 @@ Use SQL to extract meaningful insights from the books database, including:
 
 ---
 
-## 🔍 SQL Tasks Included
-
-1. **Total number of books:**
-   ```sql
-   SELECT COUNT(*) FROM books;
+**🛠️ How to Run**
+This SQL file can be executed in any SQL environment (MySQL, PostgreSQL, SQLite, etc.) with a compatible books table. Make sure your database is properly set up with relevant data.
